@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/N4veen4/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 ## Linked List
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/N4veen4/Leetcode-solutions/tree/master/0707-design-linked-list) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
