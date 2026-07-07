@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/N4veen4/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 ## Linked List
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0415-add-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
