@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/N4veen4/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
