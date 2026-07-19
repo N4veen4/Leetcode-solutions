@@ -43,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/N4veen4/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/N4veen4/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1795-rearrange-products-table](https://github.com/N4veen4/Leetcode-solutions/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->
