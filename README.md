@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/N4veen4/Leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/N4veen4/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1795-rearrange-products-table](https://github.com/N4veen4/Leetcode-solutions/tree/master/1795-rearrange-products-table) |
+## Array
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
