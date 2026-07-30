@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/N4veen4/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
