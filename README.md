@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/N4veen4/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/N4veen4/Leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/N4veen4/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Depth-First Search
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/N4veen4/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
