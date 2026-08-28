@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/N4veen4/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/N4veen4/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Counting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/N4veen4/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Depth-First Search
@@ -76,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/N4veen4/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
