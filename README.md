@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/N4veen4/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0303-range-sum-query-immutable](https://github.com/N4veen4/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/N4veen4/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/N4veen4/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
