@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/N4veen4/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/N4veen4/Leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/N4veen4/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/N4veen4/Leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/N4veen4/Leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/N4veen4/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/N4veen4/Leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
