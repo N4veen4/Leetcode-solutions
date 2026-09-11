@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/N4veen4/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/N4veen4/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/N4veen4/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/N4veen4/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/N4veen4/Leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/N4veen4/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/N4veen4/Leetcode-solutions/tree/master/0565-array-nesting) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/N4veen4/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0904-fruit-into-baskets](https://github.com/N4veen4/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/N4veen4/Leetcode-solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Depth-First Search
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/N4veen4/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/N4veen4/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/N4veen4/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
